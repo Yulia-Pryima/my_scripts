@@ -1,2 +1,2 @@
-# my_scripts
+# My Python scripts
 #### Examples

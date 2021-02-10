@@ -1,2 +1,2 @@
-# My Python scripts
+# Python scripts
 #### My code examples
